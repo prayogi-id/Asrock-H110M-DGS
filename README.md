@@ -1,7 +1,7 @@
 **My Build**
 - OS: MacOS Big Sur 11.2 (20D64)
 - CPU: Intel Core i3-6100
-- MB: Asrock B460M Pro4
+- MB: Asrock H110M-DGS
 - RAM: 2x4GB 2133 DDR4
 - iGPU: Intel® HD Graphics 530
 - dGPU: Nvidia Geforce GT635 
