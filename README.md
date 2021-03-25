@@ -1,5 +1,5 @@
 **My Build**
-- OS: MacOS Big Sur 11.2 (20D64)
+- OS: MacOS Big Sur 11.2.3 (20D91)
 - CPU: Intel Core i3-6100
 - MB: Asrock H110M-DGS
 - RAM: 2x4GB 2133 DDR4
