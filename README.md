@@ -8,7 +8,7 @@
 - SSD: Adata SU650 240GB
 - Audio: Realtek ALC887
 - LAN : Realtek RTL8111GR
-- OpenCore Version: [0.6.7](https://github.com/prayogi-id/Asrock-H110M-DGS/releases)
+- OpenCore Version: [0.6.9](https://github.com/prayogi-id/Asrock-H110M-DGS/releases)
 - SMBIOS: iMac17,1
 
 **What's working**
